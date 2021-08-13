@@ -8,4 +8,7 @@ dsgdgffsfssd`
 git checkout -b zc=git branch && git checkout zc
 git checkout master && git merge dev
 git rm && git reset --hard xxxxxxx(id)
-wozhengzaixiuhgai,keshituranyigerenwujinlaile,woyao zantingshoushangrenwu,qu jiejuebug
+wozhengz
+
+asdasdada
+aixiuhgai,keshituranyigerenwujinlaile,woyao zantingshoushangrenwu,qu jiejuebug
